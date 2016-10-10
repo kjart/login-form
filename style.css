@@ -1,0 +1,104 @@
+
+body{
+	font-family: Roboto,sans-serif;
+      font-size: 100%;
+      line-height: 16px;
+      color: #777;
+	  margin:0px;
+	  padding:0px;
+}
+.cont {
+	margin:0px;
+	padding:0 10%;
+	height:auto;
+	background-color:#080808;
+	 /* For Safari 5.1 to 6.0 */
+  background: -webkit-linear-gradient(left,#191919,#202020,#404040,#686868,#404040,#202020,#191919);
+  /* For Opera 11.1 to 12.0 */
+  background: -o-linear-gradient(left,#191919,#202020,#404040,#686868,#404040,#202020,#191919);
+  /* For Fx 3.6 to 15 */
+  background: -moz-linear-gradient(left,#191919,#202020,#404040,#686868,#404040,#202020,#191919);
+  /* Standard syntax */
+  background: linear-gradient(to right,#191919,#202020,#404040,#686868,#404040,#202020,#191919);
+		position:relative;
+		top:0px;
+		bottom:0px;
+		right:0px;
+		left:0px;
+	}
+	
+.row{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size :1em;
+	font-weight:500;
+	position:relative;
+	color:#ffffff;
+}
+.left ul ,.left-1 ,.b-span ,.b-span2 ,.follow{
+	list-style:none;
+	position:relative;
+	display:inline;
+	padding:5px;
+	font-size:13px;
+	top:2px;
+	bottom:2px;
+	
+}
+.b-span{
+		border-style:none solid;
+		border-width: 1px;
+		border-color: #808080;
+	     
+	}
+.b-span2{
+		border-style:none solid none none;
+		border-width:1px;
+		border-color:#808080;
+}
+	
+.reg{
+	text-decoration:none;	
+}
+.reg:hover ,.log{
+	color: #005487;
+}
+
+.right-1 {
+	text-decoration :none;
+}
+.icon:hover{
+	color:#005487;
+	width:40px;
+	border-radius:50%;
+	border:1px solid #005487;
+	background-color:#005487;
+}
+.icon{
+	padding:3px;
+	max-width:100%;
+	height:auto;
+}
+.row-h{
+	position:relative;
+	top:25px;
+	
+}
+.head ,.head a{
+	font-family :"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	  font-size:55px;
+	  font-weight:600;
+	  text-decoration:none;
+	  color:#005487;
+}
+.hood a:hover{
+	background-color:none;
+}
+	
+nav li ,nav ul li a{
+	background-color:none;
+	font-size:15px;
+	font-weight:500;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+}
+
